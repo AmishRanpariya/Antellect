@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="https://amishranpariya.github.io/Antellect/ " rel="noopener">
- <img width=200px height=200px src="./Assets/Antellect.png" alt="Project logo"></a>
+  <a href="https://amishranpariya.github.io/Antellect/" rel="noopener">
+ <img width=100px height=100px src="./Assets/Antellect.png" alt="Project logo"></a>
 </p>
 
 <h1 align="center">Antellect🐜</h1>
@@ -11,7 +11,7 @@
 
 ## 🌱 What does it do?
 
-- 💻 **Antellect** is an application of Genetic Algorithm on Ants to reach the Target(Marshmallow).
+- 💻 [Antellect](https://amishranpariya.github.io/Antellect/) is an application of Genetic Algorithm on Ants to reach the Target(Marshmallow).
 
 - 🌱 It is created using **Javascript** and **p5.js**(framework)
 
@@ -23,13 +23,18 @@
 
 ## 🏁 Getting Started 
 
-- First thing first, open the https://amishranpariya.github.io/Antellect/ in any of your favourite browser.
+- First thing first, open the [Antellect Website](https://amishranpariya.github.io/Antellect/) or copy paste https://amishranpariya.github.io/Antellect/ in any of your favourite browser.
 - Now, there are some points to remember.
-- Colour of ant show the state of its life (Green to Red is for Born to Die).
+- Colour of ant show the state of its life (Green🟢 to Red🔴 is for Born to Die).
 - First you can sit and watch how the Ants are learning in default speed.
 - Or you can speed up the process to see the evolution of ants rapidly(upto 100x) using the slider below the field.
 - Most importantly you can also add some obstacles in the field. (For that just draw rectangle as in any paint tool or photoshop ie. Touch-Drag-Lift or MouseDown-Drag-MouseUp).
 - The ant will die if it hits the wall or obstacles.
+
+- See YouTube video demo [here](https://youtu.be/SiF0sw2tQU4) and [here](https://youtu.be/MiYNVWXGQlI) 
+
+- Live Demo => [Antellect Website](https://amishranpariya.github.io/Antellect/)
+
 
 <p align="center">
 <img width=30% align="center"  alt="Img" src="./Assets/app-mockup1.png" />
