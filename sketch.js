@@ -316,7 +316,7 @@ function setup() {
   target = createVector(width / 2, 50);
 
   slider = createSlider(1, 100, 1);
-  slider.class('custom-range');
+  slider.class('custom-range p-2 mt-2');
 
 }
 
